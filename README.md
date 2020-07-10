@@ -4,7 +4,8 @@
 **itsksaurabh/itsksaurabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Saurabh](https://www.kumar-saurabh.com/), a passionate and creative developer from India.🇮🇳 <br>
+I am [Saurabh](https://www.kumar-saurabh.com/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India) with 2+ years of professional remote working experience. 🎯
+
 I mostly work with Golang and Cloud-Native technologies. 🚀
 
 
@@ -16,13 +17,15 @@ I mostly work with Golang and Cloud-Native technologies. 🚀
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120" />
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="75" />
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/html-css-js.png" height="70" />
+ </p>
   
 ### CSPs
   
  <p float="left">
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
-  </p>
+ </p>
   
 ### Monitoring
   
