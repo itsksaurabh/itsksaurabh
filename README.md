@@ -4,7 +4,7 @@
 **itsksaurabh/itsksaurabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Saurabh](https://www.kumar-saurabh.com/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India) with 2+ years of professional remote working experience. 🎯
+I am [Saurabh](https://www.kumar-saurabh.com/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India) &nbsp; with 2+ years of professional remote working experience. 🎯
 
 I mostly work with Golang and Cloud-Native technologies. 🚀
 
@@ -38,7 +38,7 @@ I mostly work with Golang and Cloud-Native technologies. 🚀
 
 ### 📫 How to reach me?
 
- - Visit my [Website](www.kumar-saurabh.com) 🌐
+ - Visit my [Website](https://www.kumar-saurabh.com) 🌐
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/itsksaurabh/) 👨🏻‍💻
  - Follow me on [Twitter](https://twitter.com/itsksaurabh) 🐦
  - Shoot Me an [Email](mailto:itsksaurabh@gmail.com) 💌
