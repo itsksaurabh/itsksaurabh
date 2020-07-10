@@ -17,14 +17,14 @@ I mostly work with Golang and Cloud-Native technologies. 🚀
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="75" />
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
   
-  # CSPs
+### CSPs
   
  <p float="left">
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </p>
   
-  # Monitoring
+### Monitoring
   
  <p float="left">
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
@@ -33,7 +33,7 @@ I mostly work with Golang and Cloud-Native technologies. 🚀
 </p>
 
 
-# 📫 How to reach me?
+### 📫 How to reach me?
 
  - Visit my [Website](www.kumar-saurabh.com) 🌐
  - Connect with me on [LinkedIn](https://www.linkedin.com/in/itsksaurabh/) 👨🏻‍💻
