@@ -19,7 +19,7 @@ I mostly work with Golang and Cloud-Native technologies. 🚀
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="60" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus-new.gif" height="80" />
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus-new.gif" height="90" />
 </p>
 
 
