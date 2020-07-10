@@ -9,15 +9,17 @@ I mostly work with Golang and Cloud-Native technologies. 🚀
 
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="150" />
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="150" /> 
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="150" />
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="130" />&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="200" />
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="150" />
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  width="130" />
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  width="150" />
-  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  width="250" />
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif"  height="75" />
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif"  height="75" /> 
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif"  height="75" />
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif"  height="75" />
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" height="75" />
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif"  height="75" />
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grpc.gif"  height="75" />
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="75" />&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="75" />
 </p>
 
 
