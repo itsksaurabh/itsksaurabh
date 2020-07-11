@@ -75,9 +75,9 @@ I mostly work with Golang and Cloud-Native technologies. 🚀
   </a>
 </p>
 
-### 📫 How to reach me?
+### 📫 How to reach me? 
 
- - Visit my [Website](https://www.kumar-saurabh.com) 🌐
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/itsksaurabh/) 👨🏻‍💻
- - Follow me on [Twitter](https://twitter.com/itsksaurabh) 🐦
- - Shoot Me an [Email](mailto:itsksaurabh@gmail.com) 💌
+  ⦿ Visit my [Website](https://www.kumar-saurabh.com) 🌐 <br>
+  ⦿ Connect with me on [LinkedIn](https://www.linkedin.com/in/itsksaurabh/) 👨🏻‍💻 <br>
+  ⦿ Follow me on [Twitter](https://twitter.com/itsksaurabh) 🐦 <br>
+  ⦿ Shoot Me an [Email](mailto:itsksaurabh@gmail.com) 💌 <br>
