@@ -39,7 +39,7 @@ I mostly work with Golang and Cloud-Native technologies. 🚀
 ### CSPs
   
  <p float="left">
-  <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
+  <a href="https://bit.ly/2W7a91W" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
   </a> 
   <a href="https://aws.amazon.com/" target="_blank" >
