@@ -16,7 +16,7 @@ Along with my full-time job, I also worked as a Freelancer with multiple interna
 
 I worked with multiple international clients and in multiple distributed but tight-knit teams that span multiple continents across the globe. I am Fully-committed to designing and developing innovative materials. I am highly self-motivated, enthusiastic and always willing to learn more. 
 
-# Key Skills
+## Skills
 
 <p float="left">
   <a href="https://golang.org/" target="_blank" >
