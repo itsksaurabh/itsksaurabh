@@ -6,7 +6,7 @@
 
 I am [Saurabh](https://www.kumar-saurabh.com/), a passionate and creative developer from [🇮🇳 ](https://en.wikipedia.org/wiki/India)&nbsp;with a strong interest in Open-Source. 🎯 
 
-![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=itsksaurabh&hide=["issues"]&show_icons=true)
+![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=itsksaurabh&hide=issues&show_icons=true&theme=onedark)
 
 I mostly work on Backend development with Golang ( Go ) and Cloud-Native technologies.🚀 I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes, Docker, Helm, Terraform, DigitalOcean, AWS,GCP,GRPC, CI/CD, etc. and proficient with metric collection & monitoring tools such as Grafana, Telegraf, Influxdb, etc.
 
