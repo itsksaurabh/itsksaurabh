@@ -8,13 +8,17 @@ I am [Saurabh](https://www.kumar-saurabh.com/), a passionate and creative develo
 
 ![Saurabh's github stats](https://github-readme-stats.vercel.app/api?username=itsksaurabh&hide=issues&show_icons=true&theme=onedark)
 
-I mostly work on Backend development with Golang ( Go ) and Cloud-Native technologies.🚀 I build robust, secure, and scalable infrastructures using Cloud-native technologies such as Kubernetes, Docker, Helm, Terraform, DigitalOcean, AWS,GCP,GRPC, CI/CD, etc. and proficient with metric collection & monitoring tools such as Grafana, Telegraf, Influxdb, etc.
+I am a passionate and creative Software Engineering Leader hailing from India, with a strong affinity for Golang and Cloud-Native technologies. Throughout my career, I have been dedicated to crafting robust, secure, and scalable infrastructures. Over multiple years, I have successfully launched and nurtured tech startups from the ground up. These ventures have allowed me to explore and implement innovative solutions to contemporary challenges, while also fostering a deep appreciation for the agility and adaptability required in the startup ecosystem. 
 
-I have contributed to some of the big projects by giant firms like @𝗚𝗼𝗼𝗴𝗹𝗲, @𝗚𝗶𝘁𝗵𝘂𝗯, @𝗗𝗶𝗴𝗶𝘁𝗮𝗹𝗢𝗰𝗲𝗮𝗻, @𝗢𝗽𝗲𝗻𝗙𝗮𝗮𝘀,@𝗵𝗲𝗹𝗹𝗼𝗳𝗿𝗲𝘀𝗵, etc. I am also a startup enthusiast and have multiple years of experience in building tech startups from scratch.
+My expertise encompasses a wide array of cutting-edge technologies, including Go (Golang), Kubernetes, IaaS, SaaS, PaaS, Docker, Helm, CI/CD, Terraform, AWS, Google Cloud Platform and DigitalOcean. I am well-versed in the metric collection, monitoring, and alerting tools like Prometheus, Grafana, and Cloudwatch, which have been instrumental in ensuring the performance and reliability of the systems I've worked on. 
 
-Along with my full-time job, I also worked as a Freelancer with multiple international clients including some popular companies like 𝗧𝗼𝗴𝗴𝗹.𝗰𝗼m etc.
+My expertise in these areas ensures that I am well-equipped to design and build robust, secure, and scalable backend services and infrastructures that drive the success of modern applications across the IaaS, PaaS, and SaaS domains. Throughout my career, I have successfully navigated the complexities of remote work and distributed teams.
 
-I worked with multiple international clients and in multiple distributed but tight-knit teams that span multiple continents across the globe. I am Fully-committed to designing and developing innovative materials. I am highly self-motivated, enthusiastic and always willing to learn more. 
+In addition to my technical prowess, I have been an enthusiastic contributor to the open-source community, contributing to various projects that streamline and automate application development, testing, and deployment. My contributions have ranged from code enhancements to the development of impactful tools that streamline application development, testing, and deployment.
+
+With over 20,750+ followers on LinkedIn, I have cultivated a strong online presence, reflecting my ability to engage and connect with professionals in the field. Remote work and community building are also part of my repertoire, and I take pride in delivering secure, scalable, and resilient web and infrastructure solutions.
+
+I am fully committed to designing and developing innovative materials. I am highly self-motivated, enthusiastic, and always willing to learn more.
 
 ## Skills
 
